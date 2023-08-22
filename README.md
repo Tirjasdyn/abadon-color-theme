@@ -1,4 +1,4 @@
-# abadon-color-them README
+# abadon-color-theme README
 
 ## Working with Markdown
 
