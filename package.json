@@ -1,0 +1,21 @@
+{
+  "name": "abadon-color-them",
+  "displayName": "Abadon Color Them",
+  "description": "A color theme that I can see",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ababdon Color Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Ababdon Color Theme-color-theme.json"
+      }
+    ]
+  }
+}
