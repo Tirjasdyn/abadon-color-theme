@@ -1,6 +1,6 @@
 {
-  "name": "abadon-color-them",
-  "displayName": "Abadon Color Them",
+  "name": "abadon-color-theme",
+  "displayName": "Abadon Color Theme",
   "description": "A color theme that I can see",
   "version": "0.0.1",
   "engines": {
