@@ -1,19 +1,33 @@
 {
   "name": "abadon-color-theme",
   "displayName": "Abadon Color Theme",
-  "description": "A color theme that I can see",
   "version": "0.0.1",
+  "publisher": "ms-vscode",
+  "description": "A color theme that I can see. Pastels on Dark. Low Contrast.",
+  "author": {
+    "name": "MJN"
+  },
+  "categories": ["Themes"],
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#435474",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tirjasdyn/abadon-color-theme"
+  },
+  "homepage": "https://github.com/microsoft/vscode-wordcount/blob/main/README.md"
+
+
   "engines": {
     "vscode": "^1.81.0"
   },
-  "categories": [
-    "Themes"
-  ],
   "contributes": {
     "themes": [
       {
         "label": "Ababdon Color Theme",
-        "uiTheme": "vs",
+        "uiTheme": "vs-dark",
         "path": "./themes/Ababdon Color Theme-color-theme.json"
       }
     ]
