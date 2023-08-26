@@ -1,7 +1,7 @@
 {
 	"name": "Ababdon Color Theme",
 	"colors": {
-		"editor.background": "#1A1104",
+		"editor.background": "#000000",
 		"editor.foreground": "#4E7951",
         "list.activeSelectionIconForeground": "#DEBDA6"
 	},
@@ -195,14 +195,14 @@
 				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
-				"foreground": "#995798"
+				"foreground": "#C03972"
 			}
 		},
 		{
 			"name": "HTML: Tag Names",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#7D2549"
+				"foreground": "#874F65"
 			}
 		},
 		{
@@ -411,6 +411,56 @@
 			"settings": {
 				"foreground": "#434343"
 			}
+		},
+		{
+			"name": "JavaScript: Operators",
+			"scope": "keyword.operator.assignment.js",
+			"settings": {
+				"foreground": "#63639C"
+			}
+		},
+		{
+			"name": "JavaScript: Value",
+			"scope": ["variable.other.property.js","support.variable.property.js"],
+			"settings": {
+				"foreground": "#D8CD83"
+			}
+		},
+		{
+			"name": "JavaScript: Variable",
+			"scope": "variable.other.readwrite.js",
+			"settings": {
+				"foreground": "#9CD883"
+			}
+		},
+		{
+		"name": "AmpScript: Variable",
+		"scope": "variable.parameter.ampscript",
+		"settings": {
+			"foreground": "#8B729F"
 		}
+	},
+	{
+		"name": "AmpScript: Number",
+		"scope": "constant.numeric.ampscript",
+		"settings": {
+			"foreground": "#B59772"
+		}
+	},
+	{
+		"name": "AmpScript: storage",
+		"scope": "storage.type.ampscript",
+		"settings": {
+			"foreground": "#B11654"
+		}
+	},
+	{
+		"name": "JSON: Property",
+		"scope": "support.type.property-name.json",
+		"settings": {
+			"foreground": "#B11654"
+		}
+	}
+
 	]
 }
