@@ -16,5 +16,5 @@ This is a theme based off my old Abadon Theme for Atom. Pastels on Black. Low Co
 
 ## For more information
 
-* [Visit the MJN Site](http://cmichellejnorton.com)
+* [Visit the MJN Site](http://michellejnorton.com)
 
