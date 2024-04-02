@@ -1,7 +1,7 @@
 {
 	"name": "Ababdon Color Theme",
 	"colors": {
-		"editor.background": "#FCF3FA",
+		"editor.background": "#F3F3FA",
 		"editor.foreground": "#C24471",
         "list.activeSelectionIconForeground": "#582918"
 	},
