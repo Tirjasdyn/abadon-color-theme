@@ -2,7 +2,7 @@
 	"name": "Ababdon Color Theme",
 	"colors": {
 		"editor.background": "#000000",
-		"editor.foreground": "#4E7951",
+		"editor.foreground": "#C24471",
         "list.activeSelectionIconForeground": "#DEBDA6"
 	},
 	"tokenColors": [
@@ -14,7 +14,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#394F67"
+				"foreground": "#398EAF"
 			}
 		},
 		{
@@ -32,7 +32,7 @@
 				"comment.block.documentation"
 			],
 			"settings": {
-				"foreground": "#885053"
+				"foreground": "#AE6653"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#885053"
+				"foreground": "#AE6653"
 			}
 		},
 		{
@@ -142,7 +142,7 @@
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#4E7951"
+				"foreground": "#BD7950"
 			}
 		},
 		{
@@ -170,7 +170,7 @@
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
-				"foreground": "#995798"
+				"foreground": "#FF9800"
 			}
 		},
 		{
@@ -195,14 +195,14 @@
 				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
-				"foreground": "#C03972"
+				"foreground": "#DE61A3"
 			}
 		},
 		{
 			"name": "HTML: Tag Names",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#874F65"
+				"foreground": "#24D88F"
 			}
 		},
 		{
@@ -236,7 +236,7 @@
 				"entity.name.tag.css"
 			],
 			"settings": {
-				"foreground": "#90688B"
+				"foreground": "#F1DEA0"
 			}
 		},
 		{
