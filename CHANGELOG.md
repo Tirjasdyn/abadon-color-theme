@@ -20,3 +20,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ##[0.3.0]
 
 - Tweaked the colors of Abadon Dawn
+
+    ### [0.3.1]
+
+    - Background color tweak for dawn.
