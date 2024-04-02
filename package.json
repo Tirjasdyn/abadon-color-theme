@@ -30,6 +30,11 @@
         "uiTheme": "vs-dark",
         "path": "./themes/Ababdon Color Theme-color-theme.json"
       }
+      {
+        "label": "Ababdon Dawn Color Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Ababdon Light Color Theme-color-theme.json"
+      }
     ]
   }
 }
