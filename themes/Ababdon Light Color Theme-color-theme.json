@@ -1,7 +1,7 @@
 {
 	"name": "Ababdon Color Theme",
 	"colors": {
-		"editor.background": "#FCE7E1",
+		"editor.background": "#FCF3FA",
 		"editor.foreground": "#C24471",
         "list.activeSelectionIconForeground": "#582918"
 	},
@@ -66,7 +66,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#90688B"
+				"foreground": "#553681"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 		"name": "AmpScript: Variable",
 		"scope": "variable.parameter.ampscript",
 		"settings": {
-			"foreground": "#8B729F"
+			"foreground": "#553681"
 		}
 	},
 	{

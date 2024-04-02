@@ -16,3 +16,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Added Ababadon Dawn light color theme
 - Updated change log
+
+##[0.3.0]
+
+- Tweaked the colors of Abadon Dawn

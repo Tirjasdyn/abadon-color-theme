@@ -4,6 +4,10 @@
 
 This is a theme based off my old Abadon Theme for Atom. Pastels on Black. Low Contrast. 
 
+### Includes Abadon Dawn
+
+A light version of the theme. 
+
 ## Supported Languages
 
 * HTML
