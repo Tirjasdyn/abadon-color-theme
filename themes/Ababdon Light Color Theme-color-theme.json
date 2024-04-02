@@ -1,9 +1,9 @@
 {
 	"name": "Ababdon Color Theme",
 	"colors": {
-		"editor.background": "#000000",
+		"editor.background": "#FCE7E1",
 		"editor.foreground": "#C24471",
-        "list.activeSelectionIconForeground": "#DEBDA6"
+        "list.activeSelectionIconForeground": "#582918"
 	},
 	"tokenColors": [
 		{
@@ -14,7 +14,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#398EAF"
+				"foreground": "#0F5282"
 			}
 		},
 		{
@@ -32,7 +32,7 @@
 				"comment.block.documentation"
 			],
 			"settings": {
-				"foreground": "#AE6653"
+				"foreground": "#9E586B"
 			}
 		},
 		{
@@ -46,7 +46,7 @@
 			"name": "Operators",
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#DE80A3"
+				"foreground": "#5E4D75"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#DE80A3"
+				"foreground": "#3E58A4"
 			}
 		},
 		{
@@ -110,7 +110,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#DE80A3"
+				"foreground": "#EA583D"
 			}
 		},
 		{
@@ -135,21 +135,21 @@
 				"constant"
 			],
 			"settings": {
-				"foreground": "#DE80A3"
+				"foreground": "#9E586B"
 			}
 		},
 		{
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#BD7950"
+				"foreground": "#471B18"
 			}
 		},
 		{
 			"name": "Strings: Escape Sequences",
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#DE80A3"
+				"foreground": "#61294C"
 			}
 		},
 		{
@@ -163,7 +163,7 @@
 			"name": "Strings: Symbols",
 			"scope": "constant.other.symbol",
 			"settings": {
-				"foreground": "#90AC8B"
+				"foreground": "#4B7A4D"
 			}
 		},
 		{
@@ -182,7 +182,7 @@
 				"meta.tag.sgml punctuation.definition.tag.html"
 			],
 			"settings": {
-				"foreground": "#90AC8B"
+				"foreground": "#4B7A4D"
 			}
 		},
 	
@@ -195,14 +195,14 @@
 				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
-				"foreground": "#DE61A3"
+				"foreground": "#3E58A4"
 			}
 		},
 		{
 			"name": "HTML: Tag Names",
 			"scope": "entity.name.tag",
 			"settings": {
-				"foreground": "#24D88F"
+				"foreground": "#440448"
 			}
 		},
 		{
@@ -213,7 +213,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#91B3E0"
+				"foreground": "#4981AE"
 			}
 		},
 		{
@@ -224,7 +224,7 @@
 				"string.quoted.double.html"
 			],
 			"settings": {
-				"foreground": "#90AC8B"
+				"foreground": "#004448"
 			}
 		},
 		{
@@ -236,7 +236,7 @@
 				"entity.name.tag.css"
 			],
 			"settings": {
-				"foreground": "#F1DEA0"
+				"foreground": "#BC8600"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 				"support.type.property-name.css"
 			],
 			"settings": {
-				"foreground": "#90AC8B"
+				"foreground": "#325230"
 			}
 		},
 		{
@@ -258,7 +258,7 @@
 				"support.constant.property-value"
 			],
 			"settings": {
-				"foreground": "#D8B185"
+				"foreground": "#5D2D61"
 			}
 		},
 		{
@@ -423,14 +423,14 @@
 			"name": "JavaScript: Value",
 			"scope": ["variable.other.property.js","support.variable.property.js"],
 			"settings": {
-				"foreground": "#D8CD83"
+				"foreground": "#BC8600"
 			}
 		},
 		{
 			"name": "JavaScript: Variable",
 			"scope": "variable.other.readwrite.js",
 			"settings": {
-				"foreground": "#9CD883"
+				"foreground": "#004448"
 			}
 		},
 		{
