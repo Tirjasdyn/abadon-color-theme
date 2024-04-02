@@ -9,5 +9,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Initial release
 
 ## [0.1.0]
-    - Updated some colors to be a little more contrast friendly. 
-    
+
+- Updated some colors to be a little more contrast friendly. 
+
+## [0.2.0]   
+
+- Added Ababadon Dawn light color theme
+- Updated change log
