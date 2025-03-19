@@ -1,0 +1,7 @@
+{
+    "workbench.tree.enableStickyScroll": false,
+    "editor.stickyScroll.scrollWithEditor": false,
+    "bookmarks.experimental.enableNewStickyEngine": false,
+    "editor.hover.sticky": false,
+    "editor.stickyScroll.enabled": false
+}
